@@ -1,0 +1,16 @@
+body{
+    background-color: #002333;
+}
+h1{
+    text-align: center; color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3em;
+}
+a{
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+td{
+    padding: 30px;
+}
